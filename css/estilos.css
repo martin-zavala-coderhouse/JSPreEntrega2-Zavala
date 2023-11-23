@@ -1,0 +1,55 @@
+
+/* Estilos opcionales para mejorar la apariencia */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: teal;
+
+
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+
+
+
+
+.centrar {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+
+.botonfinal button {
+    background-color: black;
+    color: white;
+    padding: 10px 20px; /* Puedes ajustar estos valores según tu preferencia */
+    border: none;
+    border-radius: 5px; /* Puedes ajustar este valor según tu preferencia */
+    cursor: pointer;
+}
+
+.botonfinal button:hover {
+    background-color: #333; /* Cambia el color al pasar el mouse, si lo deseas */
+}
+
+
+.botonfinal {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.cantidad-input {
+    margin-left: 100px; /* Ajusta el valor según sea necesario */
+    background-color: orange;
+    border-radius: 16px; /
+}
+
